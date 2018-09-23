@@ -1,0 +1,2 @@
+1. Download and install Anaconda
+2. Open THe code file with JupyterNotebook
